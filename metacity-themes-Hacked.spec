@@ -2,7 +2,7 @@ Summary:	Hacked theme
 Summary(pl):	Motyw Hacked
 Name:		metacity-themes-Hacked
 Version:	1.0
-Release:	2
+Release:	3
 License:	GPL
 Group:		Themes/GTK+
 Source0:	http://art.gnome.org/download/themes/metacity/503/MCity-Hacked.tar.gz
@@ -33,4 +33,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%dir %{_datadir}/themes/Hacked
 %{_datadir}/themes/Hacked/metacity-1
