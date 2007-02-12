@@ -1,5 +1,5 @@
 Summary:	Hacked theme
-Summary(pl):	Motyw Hacked
+Summary(pl.UTF-8):   Motyw Hacked
 Name:		metacity-themes-Hacked
 Version:	1.0
 Release:	3
@@ -14,7 +14,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hacked theme for metacity.
 
-%description -l pl
+%description -l pl.UTF-8
 Motyw Hacked dla metacity.
 
 %prep
