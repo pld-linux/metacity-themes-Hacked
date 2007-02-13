@@ -1,5 +1,5 @@
 Summary:	Hacked theme
-Summary(pl.UTF-8):   Motyw Hacked
+Summary(pl.UTF-8):	Motyw Hacked
 Name:		metacity-themes-Hacked
 Version:	1.0
 Release:	3
